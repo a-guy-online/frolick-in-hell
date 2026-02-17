@@ -120,12 +120,12 @@ TextureImporter:
       name: fleshfloor_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 32
-        width: 63
+        x: 1
+        y: 64
+        width: 62
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -141,12 +141,12 @@ TextureImporter:
       name: fleshfloor_1
       rect:
         serializedVersion: 2
-        x: 63
-        y: 32
-        width: 65
+        x: 65
+        y: 64
+        width: 62
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -162,12 +162,12 @@ TextureImporter:
       name: fleshfloor_2
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 63
+        x: 1
+        y: 32
+        width: 62
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -183,12 +183,12 @@ TextureImporter:
       name: fleshfloor_3
       rect:
         serializedVersion: 2
-        x: 63
-        y: 0
-        width: 65
+        x: 65
+        y: 32
+        width: 62
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -196,6 +196,27 @@ TextureImporter:
       bones: []
       spriteID: 83524084aa124594db481a7c0605cbc7
       internalID: 1449175787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fleshfloor_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5386507dbf60b44b62bc83cc23e653
+      internalID: -1538451371
       vertices: []
       indices: 
       edges: []
@@ -215,6 +236,7 @@ TextureImporter:
       fleshfloor_1: -559791565
       fleshfloor_2: -1612768491
       fleshfloor_3: 1449175787
+      fleshfloor_4: -1538451371
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
