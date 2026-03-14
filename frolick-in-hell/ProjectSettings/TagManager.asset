@@ -44,9 +44,9 @@ TagManager:
   - name: tiles (back)
     uniqueID: 795664167
     locked: 0
-  - name: flowers
-    uniqueID: 1209759421
-    locked: 0
   - name: player
     uniqueID: 1016003067
+    locked: 0
+  - name: flowers
+    uniqueID: 1209759421
     locked: 0
